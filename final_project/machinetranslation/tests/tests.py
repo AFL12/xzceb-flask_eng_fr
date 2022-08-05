@@ -1,4 +1,4 @@
-import translator 
+from machinetranslation import translator 
 
 
 print(translator.french_to_english('Bonjour'))
